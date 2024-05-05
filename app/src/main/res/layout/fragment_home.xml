@@ -40,6 +40,17 @@
             android:orientation="vertical"
             app:layout_constraintGuide_end="20dp" />
 
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/carouselRecyclerView"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp"
+            app:layoutManager="com.google.android.material.carousel.CarouselLayoutManager"
+            tools:listitem="@layout/carousel_holder_layout"
+            app:layout_constraintEnd_toStartOf="@+id/guideline4"
+            app:layout_constraintStart_toStartOf="@+id/guideline3"
+            app:layout_constraintTop_toBottomOf="@+id/search_bar" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </layout>
