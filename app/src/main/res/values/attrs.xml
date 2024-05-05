@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorThemed_black" format="color" />
+    <attr name="colorOnThemed_black" format="color" />
+    <attr name="colorThemed_blackContainer" format="color" />
+    <attr name="colorOnThemed_blackContainer" format="color" />
+    <attr name="harmonizeThemed_black" format="boolean" />
+    <attr name="colorThemed_grey" format="color" />
+    <attr name="colorOnThemed_grey" format="color" />
+    <attr name="colorThemed_greyContainer" format="color" />
+    <attr name="colorOnThemed_greyContainer" format="color" />
+    <attr name="harmonizeThemed_grey" format="boolean" />
+</resources>

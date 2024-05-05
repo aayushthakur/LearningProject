@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#379570</color>
+    <color name="colorSecondary">#EBF4F1</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#F4F6F5</color>
+    <color name="themed_black">#05140A</color>
+    <color name="themed_blue">#2a26da</color>
+</resources>
